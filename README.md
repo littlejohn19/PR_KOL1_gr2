@@ -60,3 +60,5 @@ Po wybraniu przycisku Wyczyść, fomrmularz zostaje wyczyszczony, a informacja w
 Pod formularzem należy wstawić licznik, który będzie wyświetlał liczbę, ile razy został kliknęty przycisk wyślij.
 
 Technika rozwiązania dowolna!
+
+https://drive.google.com/drive/folders/1Bk9r9OY2yw7YzI3D83-DJkHByU3ffs20?usp=sharing
